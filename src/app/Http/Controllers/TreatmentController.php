@@ -8,3 +8,4 @@ class TreatmentController extends Controller
 {
     //
 }
+//controller

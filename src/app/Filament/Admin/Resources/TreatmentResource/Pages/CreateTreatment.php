@@ -10,3 +10,4 @@ class CreateTreatment extends CreateRecord
 {
     protected static string $resource = TreatmentResource::class;
 }
+//create

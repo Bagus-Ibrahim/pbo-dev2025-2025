@@ -62,3 +62,4 @@ class TreatmentResource extends Resource
         ];
     }
 }
+//treatment

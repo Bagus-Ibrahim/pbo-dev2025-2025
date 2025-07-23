@@ -17,3 +17,4 @@ class ListTreatments extends ListRecords
         ];
     }
 }
+//list
